@@ -2,14 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rocio980806.github.io/</id>
     <title>Gridea</title>
-    <updated>2021-01-13T14:24:52.662Z</updated>
+    <updated>2021-01-13T15:29:10.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rocio980806.github.io/"/>
     <link rel="self" href="https://rocio980806.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://rocio980806.github.io/images/avatar.png</logo>
     <icon>https://rocio980806.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://rocio980806.github.io/post/about/</id>
+        <link href="https://rocio980806.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>翻译学习、技术小白、生活日常的碎碎念</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>西班牙语笔译在读研究生</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>看电影、看剧、逛淘宝、刷手机</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>zsmmsg@gmail.com</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://rocio980806.github.io/post/hello-gridea/</id>
